@@ -107,7 +107,7 @@ This prints your personal `FLEX_ON`, `FLEX_OFF`, and `FLEX_MAX` values. Copy the
 | Thread Inserts | 0.28" Dia × 0.38" H heat-set inserts | 50 | DigiKey #5519-HI-132-WH-ND (Mfg #HI-132-WH) |
 | Machine Screws | Pan Phillips #10-32 | 50 | DigiKey #36-9909-ND (Mfg #9909) |
 | Switches | SPST-NO 0.001A 5V detect switch | 50 | DigiKey #450-3349-ND (Mfg #JJOV0UL650NONPRBK) |
-| PCBs | Custom arm PCBs assembled by JLCPCB | 50 | JLCPCB |
+| PCBs | Custom arm PCBs assembled by JLCPCB | 1 | JLCPCB |
 | Miscellaneous | Wires, breadboard, connectors | — | Generic |
 
 ---
