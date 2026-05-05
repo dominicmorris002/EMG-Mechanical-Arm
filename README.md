@@ -99,7 +99,7 @@ This prints your personal `FLEX_ON`, `FLEX_OFF`, and `FLEX_MAX` values. Copy the
 | EMG Sensor | MyoWare 2.0 compatible sensor cable | 1 | MyoWare |
 | Electrode Pads | EMG Surface Electrodes, 6-pack | 3 packs | DigiKey #1528-2172-ND (Mfg #2773) |
 | Microcontroller | RP2040 + PCB | 1 | Custom PCB via JLCPCB |
-| Power Supply | 12V DC (5A) + 5V DC dual output power bank | 1 | Generic |
+| Power Supply | 12V DC (5A) + 5V DC dual output power bank | 1 | ColdBye Dual Source Power Bank 12V and 5V |
 | Enclosure | Custom 3D-printed enclosure | 1 | Print files in repo |
 | Straps | Adjustable straps for arm attachment | 2 | Generic |
 | Bearing (small) | 0.315" ID × 0.866" OD × 0.276" W | 15 | DigiKey #1995-1010-ND (Mfg #608-2RS-W/CHEVRONSRI2) |
