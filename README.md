@@ -25,7 +25,7 @@ EMG-Mechanical-Arm/
 ├── AITrainingCodeComputer.py   # PC-side: collects data and trains the AI model
 ├── find_thresholds.py          # PC-side: finds ideal FLEX_ON / FLEX_OFF / FLEX_MAX thresholds
 ├── learningarm.py              # Experimental / learning scripts
-├── protomechanicalarm.py       # Prototype motor control logic
+├── protomechanicalarm.py       # MicroPython code - Prototype motor control logic runs on PCB as main.py
 ├── Doms PCB/                   # KiCad PCB design files
 ├── FinalPrint1/                # 3D print files (individual parts)
 └── FULLPRINTFULLRightArm.3mf  # Full arm 3MF file for slicing
