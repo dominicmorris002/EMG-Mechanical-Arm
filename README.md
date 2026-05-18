@@ -1,3 +1,9 @@
+
+
+
+
+
+
 # EMG Mechanical Arm
 
 A myoelectric prosthetic arm that uses surface EMG signals to detect muscle gestures and drive a mechanical arm via a DC motor. The system consists of a **MyoWare 2.0 EMG sensor**, an **RP2040 microcontroller**, and a PC-side AI training pipeline that learns your personal muscle thresholds.
@@ -127,6 +133,19 @@ The full arm model is included as `FULLPRINTFULLRightArm.3mf`. Individual parts 
 
 ---
 
-## License
 
-MIT — use freely, attribution appreciated.
+https://github.com/user-attachments/assets/8c2e5e14-4f48-4a41-89b6-7d09158db423
+
+<img width="1667" height="1361" alt="image" src="https://github.com/user-attachments/assets/e13ed429-8436-43f8-8f4e-50e7ae09e667" />
+
+<img width="655" height="1895" alt="image" src="https://github.com/user-attachments/assets/dd11ffbc-0ded-4894-8a71-866aa3b3a3c3" />
+
+<img width="813" height="1418" alt="image" src="https://github.com/user-attachments/assets/8d8da3b6-6381-4575-b110-fbb99e760b7e" />
+
+<img width="421" height="379" alt="image" src="https://github.com/user-attachments/assets/b9a14e70-0c84-4ab1-ae8f-1a413bc671ae" />
+
+
+<img width="1011" height="758" alt="image" src="https://github.com/user-attachments/assets/b36c49d7-a5d8-47f0-86c6-bd991ada19fa" />
+
+
+
