@@ -136,7 +136,8 @@ The full arm model is included as `FULLPRINTFULLRightArm.3mf`. Individual parts 
 
 <div align="center">
 
-![Arm Demo Video](https://github.com/user-attachments/assets/8c2e5e14-4f48-4a41-89b6-7d09158db423)
+https://github.com/user-attachments/assets/b0d67ed7-32eb-4f09-bf58-b973187cbe4e
+
 
 </div>
 
