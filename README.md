@@ -31,7 +31,7 @@ EMG-Mechanical-Arm/
 ## Quickstart
 
 
-You can choose to skip the AI thersholds as they work but are not needed for the product to run well. For the fastest and easiest approach plug in the PCB via USB to your computer. Download Thonny and open protomechanicalarm.py. Download mircropython onto the PCB through thonnys interface at the bottom right, Choose RP2040. Now save the file by clicking file > save as > Micropython Device, and type main.py. The program will now always be stored on the chip and work as soon as plugged in. 
+You can choose to skip the AI thresholds and learning files as they work but are not needed for the product to run well. For the fastest and easiest approach plug in the PCB via USB to your computer. Download Thonny and open protomechanicalarm.py. Download mircropython onto the PCB through thonnys interface at the bottom right, Choose RP2040. Now save the file by clicking file > save as > Micropython Device, and type main.py. The program will now always be stored on the chip and work as soon as plugged in. To change the trigger values of the sensor simply change them in the code. They closer they are the snappier they will be. Account for some ammount of noise present. 14000 and 18000 are good starting numbers.
 
 <img width="850" height="707" alt="image" src="https://github.com/user-attachments/assets/feda00b4-91b5-4315-a150-a2f258e35823" />
 
