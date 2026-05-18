@@ -128,7 +128,7 @@ This prints your personal `FLEX_ON`, `FLEX_OFF`, and `FLEX_MAX` values. Copy the
 
 ## 3D Printing
 
-The full arm model is included as `FULLPRINTFULLRightArm.3mf`. Individual parts are in the `FinalPrint1/` folder. Recommended print settings: 0.2mm layer height, 40%+ infill for structural parts, PETG or ABS recommended for durability.
+The full arm model is included as `FULLPRINTFULLRightArm.3mf`. Individual parts are in the `FinalPrint1/` folder. Recommended print settings: H2D Printer Size with PLA Component.
 
 ---
 
