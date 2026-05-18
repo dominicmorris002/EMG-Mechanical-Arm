@@ -3,10 +3,9 @@
 
 
 
-
 # EMG Mechanical Arm
 
-A myoelectric prosthetic arm that uses surface EMG signals to detect muscle gestures and drive a mechanical arm via a DC motor. The system consists of a **MyoWare 2.0 EMG sensor**, an **RP2040 microcontroller**, and a PC-side AI training pipeline that learns your personal muscle thresholds.
+A myoelectric prosthetic arm that uses surface EMG signals to detect muscle gestures and drive a mechanical arm via a DC motor. The system consists of a **MyoWare 2.0 EMG sensor**, an **RP2040 microcontroller**, and **custom 3D-printed mechanics** with motor control.
 
 ---
 
@@ -129,23 +128,79 @@ This prints your personal `FLEX_ON`, `FLEX_OFF`, and `FLEX_MAX` values. Copy the
 
 ## 3D Printing
 
-The full arm model is included as `FULLPRINTFULLRightArm.3mf`. Individual parts are in the `FinalPrint1/` folder. Recommended print settings: 0.2mm layer height, 40%+ infill for structural parts, PETG or PLA+.
+The full arm model is included as `FULLPRINTFULLRightArm.3mf`. Individual parts are in the `FinalPrint1/` folder. Recommended print settings: 0.2mm layer height, 40%+ infill for structural parts, PETG or ABS recommended for durability.
 
 ---
 
+## Project Gallery
 
-https://github.com/user-attachments/assets/8c2e5e14-4f48-4a41-89b6-7d09158db423
+<div align="center">
 
-<img width="1667" height="1361" alt="image" src="https://github.com/user-attachments/assets/e13ed429-8436-43f8-8f4e-50e7ae09e667" />
+![Arm Demo Video](https://github.com/user-attachments/assets/8c2e5e14-4f48-4a41-89b6-7d09158db423)
 
-<img width="655" height="1895" alt="image" src="https://github.com/user-attachments/assets/dd11ffbc-0ded-4894-8a71-866aa3b3a3c3" />
+</div>
 
-<img width="813" height="1418" alt="image" src="https://github.com/user-attachments/assets/8d8da3b6-6381-4575-b110-fbb99e760b7e" />
+<div align="center">
 
-<img width="421" height="379" alt="image" src="https://github.com/user-attachments/assets/b9a14e70-0c84-4ab1-ae8f-1a413bc671ae" />
+<img alt="Arm Assembly" src="https://github.com/user-attachments/assets/e13ed429-8436-43f8-8f4e-50e7ae09e667" width="600">
 
+</div>
 
-<img width="1011" height="758" alt="image" src="https://github.com/user-attachments/assets/b36c49d7-a5d8-47f0-86c6-bd991ada19fa" />
+<div align="center">
 
+<img alt="Full Arm Design" src="https://github.com/user-attachments/assets/dd11ffbc-0ded-4894-8a71-866aa3b3a3c3" width="500">
 
+</div>
 
+<div align="center">
+
+<img alt="Mechanical Detail" src="https://github.com/user-attachments/assets/8d8da3b6-6381-4575-b110-fbb99e760b7e" width="500">
+
+</div>
+
+<div align="center">
+
+<img alt="Circuit Diagram" src="https://github.com/user-attachments/assets/b9a14e70-0c84-4ab1-ae8f-1a413bc671ae" width="350">
+
+</div>
+
+<div align="center">
+
+<img alt="System Overview" src="https://github.com/user-attachments/assets/b36c49d7-a5d8-47f0-86c6-bd991ada19fa" width="600">
+
+</div>
+
+---
+
+## License
+
+### Custom License — EMG Mechanical Arm
+
+**Copyright © 2026 Dominic Morris** — All Rights Reserved (unless specified below)
+
+This project is shared under a **modified open-source license** with the following terms:
+
+#### Permitted Uses:
+- **Personal & Educational Use:** You may freely use, study, modify, and build upon this work for personal, non-commercial, and educational purposes.
+- **Open Source Contributions:** You may fork, modify, and improve this project for non-commercial use.
+
+#### Requirements:
+- **Attribution Required:** You must credit Dominic Morris and link to this repository in any public use, distribution, or derived work.
+- **Share Modifications:** Any modifications, improvements, or derivative works must be publicly shared (open-sourced) and made available to the community with attribution.
+- **No Commercial Resale Without Permission:** You may NOT sell, commercialize, or profit from this work or any derivative without explicit written permission and a commercial licensing agreement with Dominic Morris.
+
+#### Commercial Use:
+- If you wish to commercialize this work (sell it as a product, include it in a commercial offering, or generate profit):
+  1. You **must obtain explicit written permission** from Dominic Morris
+  2. Dominic Morris **must receive credit** as the original creator
+  3. Dominic Morris **must receive a fair share of profit** (terms to be negotiated)
+  4. A formal licensing agreement must be established before commercialization
+
+#### Disclaimer:
+THIS PROJECT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES, INJURIES, OR LOSSES RESULTING FROM USE OF THIS PROJECT.
+
+---
+
+**For inquiries regarding commercial licensing, collaborations, or permission requests, please contact Dominic Morris.**
+
+---
