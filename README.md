@@ -1,8 +1,3 @@
-
-
-
-
-
 # EMG Mechanical Arm
 
 A myoelectric prosthetic arm that uses surface EMG signals to detect muscle gestures and drive a mechanical arm via a DC motor. The system consists of a **MyoWare 2.0 EMG sensor**, an **RP2040 microcontroller**, and **custom 3D-printed mechanics** with motor control.
@@ -34,6 +29,14 @@ EMG-Mechanical-Arm/
 ---
 
 ## Quickstart
+
+
+You can choose to skip the AI thersholds as they work but are not needed for the product to run well. For the fastest and easiest approach plug in the PCB via USB to your computer. Download Thonny and open protomechanicalarm.py. Download mircropython onto the PCB through thonnys interface at the bottom right, Choose RP2040. Now save the file by clicking file > save as > Micropython Device, and type main.py. The program will now always be stored on the chip and work as soon as plugged in. 
+
+<img width="850" height="707" alt="image" src="https://github.com/user-attachments/assets/feda00b4-91b5-4315-a150-a2f258e35823" />
+
+
+
 
 ### Step 1 — Flash the RP2040
 
